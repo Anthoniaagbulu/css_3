@@ -1,0 +1,31 @@
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 60px;
+    background-color: white;
+}
+    main{
+    background-color: white;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+}
+.container{
+    width: 100%;
+    float: center;
+    border-left: none;
+    border-right: none;
+    border-style:none;
+    border-style: dotted;
+    border-style: inset;
+    border-style:dashed solid
+    border-style:dashed double none 
+    border-style:dashed groove none dotted;
+    text-align: :left;
+    padding: 50px;
+}
+.class{
+    text-align: center;
+}
+ 
